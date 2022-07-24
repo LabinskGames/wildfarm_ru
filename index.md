@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+***Политика конфиденциальности***
+ДИКАЯ ФЕРМА: КРАСНОДАРСКИЙ РАЖ от Labinsk Games является бесплатным приложением свободного пользования, содержащим рекламу.
+В данном документе содержится информация касательно политики конфиденциальности, в частности, данные о сборе, обработке и предоставлении личной информации при использовании приложения.
 
-You can use the [editor on GitHub](https://github.com/LabinskGames/wildfarm_ru/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Используя приложение ДИКАЯ ФЕРМА: КРАСНОДАРСКИЙ РАЖ от Labinsk Games, Вы даете согласие на сбор и обработку личных данных, как это предусмотрено настоящей политикой конфиденциальности. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***Информация о сборе и обработке информации***
+Labinsk Games не занимается сбором и обработкой личной информации о пользователях. Но, несмотря на это, сбор данных может осуществляться сторонними службами, интегрированными в приложение. Поэтому старательно рекомендуеся ознакомиться с их политиками конфиденциальности приведенными ниже.
 
-### Markdown
+Ссылки на политику конфиденциальности служб, интегрированных в данное приложение:
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Yandex](https://yandex.ru/legal/confidential/?lang=ru)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+***Безопасность***
+Мы ценим то, что Вы доверяете нам, поэтому стараемся защитить Ваши данные любым доступным для нас способом. Стоит напомнить, что не существует 100% надежного метода передачи и/или хранения информации в Интернете, поэтому гарантия нами полной безопасности невозможна.
 
-- Bulleted
-- List
+***Ссылки на другие сайты***
 
-1. Numbered
-2. List
+В приложении могут присутствовать ссылки на другие сайты. Если вы перейдете по сторонней ссылке, то Вы будете перенаправлены на сайт, на который она ведет. Заметьте, что мы не имеем доступа к подобным веб-сайтам, поэтому настоятельно рекомендуем ознакомиться с их Политикой конфиденциальности. Labinsk Games не несет ответственности за опубликованные материалы, правила пользования и действия любых сторонних сайтов и приложений.
 
-**Bold** and _Italic_ and `Code` text
+***Конфиденциальность/безопасность (в отношении) детей***
+Положения не распространяются на лиц, младше 13 лет. Сбор персональной информации, позволяющей идентифицировать пользователей, не осуществляется в отношении группы лиц, указанной выше. 
 
-[Link](url) and ![Image](src)
-```
+***Изменения в Политике конфиденциальности***
+В случае изменения Политики конфиденциальности, Вам будет предложено ознакомиться с новыми положениями. Все последующие изменения будут указаны на этой странице.
+Данные положения действительны с 20.07.2022.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+***Обратная связь***
+Если у Вас возникли какие-либо вопросы или предложения как улучшить положения данного документа, обращайтесь по адресу labinskgames@gmail.com.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LabinskGames/wildfarm_ru/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

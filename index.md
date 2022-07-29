@@ -11,7 +11,6 @@ Labinsk Games не занимается сбором и обработкой л�
 
 Ссылки на политику конфиденциальности служб, интегрированных в данное приложение:
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Yandex](https://yandex.ru/legal/confidential/?lang=ru)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
 
